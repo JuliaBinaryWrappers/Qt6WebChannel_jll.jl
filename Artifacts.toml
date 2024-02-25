@@ -1,0 +1,244 @@
+[[Qt6WebChannel]]
+arch = "aarch64"
+git-tree-sha1 = "3d543a7691ac6b209d51e1aab671ec8b44891a30"
+os = "macos"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "84231141a7b819de28a1b49d4b5e103d323d34cf365e5a4140bbe0d18c6b19ea"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.aarch64-apple-darwin.tar.gz"
+[[Qt6WebChannel]]
+arch = "x86_64"
+git-tree-sha1 = "eddf021ca4f2b5bd691065185eb8daeb197b1a9d"
+os = "macos"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "0cc9b096620a7771e01f672ff9af91f3f74d1bec07b5a1cdc6f6f95640a4247d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.x86_64-apple-darwin.tar.gz"
+[[Qt6WebChannel]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b5efc08554dd07c01c832d5363ff3f5100d80952"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "7303323f93399152103995375d517b1459117bd937209eea746d9eca527ae335"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6922a0f17ceb9096da2e8d05c2240964db41268"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "f42d86c3a239224c3599dcde6d220fe04bb3d76d3d1fe328895a965a805e9bda"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80a651cc9d7333ba6fe642cdaed4f5a7d7c66c5b"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "312f5859c134677168ce019095fdfa7ac3f6c07faa7e4899e8f10d5a962ac106"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7f9b195d9c66024c4c16d393286a9c996d2344ed"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "6354af86b81c6be655a5a35d137372dc0bc6f6dd83b60c5652b6c304ae6d27fd"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6df4c2a1c411ed5209e792410e815664d8e245d7"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "0ddb54a4ee262e8091b1f84df7512058d1c2f70bff88516919fe3f93f2cec0e0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b223a8f94ab6e3284b5282a53a040be974b08c1"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "1f5c69cab61d9eaae8fc31497e8dc838bd7fb80dede683f2b0f46c5800146175"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "99da5a432b5c59151e1f8a50415694e94125299e"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "6defd975f30f1619e5718f42f5ab7c4e3241e0ede3682e7683111d2e17f47757"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "19ad8cfa4d9a74681dada1735fe553a80e6d9d72"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "ee6b5aa284eb8d160ebece2a52dac06af3b28f718f4327cd2116ec3db6d4dc4d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6b74ce2b59fcb7e42ef7a7346dc1b9a84777957"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "a43d7487648cddbb18fc7d8384ba27e8db5c7eb9b19614392920cca8dfcf0ed6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6998a12ac060bd1c4e496666a24a96d725b88b2b"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "2bbc86aee9c05e93b56c0ddc98203f8466fad83a06d21d9714c0be394cd9ab83"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6dfc5609d75bebead69ef13e11950dd0f4cd635"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "2d7236f12cbcf982b3cf6fc96f85ae6214fd0dba98ff9e9efe1a28ea0cf89f1d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73f5a7d5c1adc213c0a11fc991d7a6e25c96b34e"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "5d023c9b6963055b0f6b9a22862ee4ba69127c70c4cf9cd0321a2e418df87593"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e0497b8e81a2afbdee991418b76ccc0d260ea51b"
+os = "windows"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "f9be7d770738eb2fb4c48eff3fdbbfbb9d40404a8750d136ec3de76c983b4730"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8c90bbe2f77eaa71045cbdd75e608f5331898f4"
+os = "windows"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "a19ab4b3c2169732958da51f48b52d8e33dee10b7c494bf99f0a35e232b3abf2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6e97fd87fe7b3661271e49643397f325bfa02f3a"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "d3c7401e141bb043ed1935348bd8fda1c6e32f42cf9a4231569d123b0074636f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d728fe490252a08830005a15f8002371855f29bf"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "df94aa4cd36874ff42f3c8178904c45fde2647bf5748a9ac038e439d5cc628a9"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1201e8ee905ad60b0bd9d9e89795062f50089b3a"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "7fd3adf635625d50cddb60a9d35d76c9837812ad129eda806edb183cebf61e1b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f52c5569bc5731aee14f9714e591cd76a2fe7279"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "86d9c60fda2623f29557f388478e00fbf4115ee78094802562506bd72db2c175"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8aa29c748cfbad92f1875c6ebca357e4cbb2db7"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "db7b8a169825213e923074f192b85d7eab401a3af4ee27ff3e0dd2f41b843354"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f4a07780da745e0ece0841b9dfba016257871cd"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "5fb2074dc751145e7ad7c55f6fee46e1d73148d9130981ae493777589835ec97"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6WebChannel]]
+arch = "x86_64"
+git-tree-sha1 = "6ae65d743a696e61908f06fba6a1f4323677bfef"
+os = "freebsd"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "8fff31507232937ad7fb77819b4435873fe6c777bc74afb10976414ff2c7c190"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.x86_64-unknown-freebsd.tar.gz"
+[[Qt6WebChannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f8323c379e21c557329dbafdd6db362e98b7054d"
+os = "windows"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "7aadf8d28355eb783f58dc51c4bbdd0fa839742d8b2cd3d02a248daf0a298426"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt6WebChannel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e2858afc6cd014db35c4f58d4821584f291c9883"
+os = "windows"
+
+    [[Qt6WebChannel.download]]
+    sha256 = "9defc4d8b9a3612863cc6535725a0967b96cdcb4582993679ad4c1e7413f928f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebChannel_jll.jl/releases/download/Qt6WebChannel-v6.5.2+0/Qt6WebChannel.v6.5.2.x86_64-w64-mingw32-cxx11.tar.gz"
